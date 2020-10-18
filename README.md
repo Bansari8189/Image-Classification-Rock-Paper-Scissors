@@ -7,7 +7,7 @@ Jupyter Notebook Image Classification for Game Rock-Paper-Scissors
 - After that open [Google Colab](https://colab.research.google.com/)
 - Run this program
 
-**NOTES**
+**NOTES**   
 Actually this is my submission program on [Dicoding](https://www.dicoding.com/)
 
 #### License
