@@ -3,7 +3,7 @@ Jupyter Notebook Image Classification for Game Rock-Paper-Scissors
 
 ## Tutorial Use
 
-- First you must download [main file](./Image Classification Rock-Paper-Scissors.ipynb)
+- First you must download [main file](./"Image Classification Rock-Paper-Scissors.ipynb")
 - After that open [Google Colab](https://colab.research.google.com/)
 - Run this program
 
